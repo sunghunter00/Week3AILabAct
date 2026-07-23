@@ -1,4 +1,4 @@
-activity Question 1:
+activity Question 1
 
 Rule-based systems need override conditions because some rules are more
 important than others. In this activity, a teacher's pass should always be
@@ -7,7 +7,7 @@ checks the time and number of items first, the program might reject a student
 who should actually be approved. Checking the override condition first helps
 the program follow the correct rules and avoids incorrect results.
 
-Activity Question 2:
+Activity Question 2
 
 The overdue books check should come first because students with overdue books
 are not allowed to borrow no matter what their account status is. If Aliah
