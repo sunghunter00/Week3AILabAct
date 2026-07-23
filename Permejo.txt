@@ -1,13 +1,17 @@
-Rule-based systems need override conditions because some rules are more important than others.
+activity Question 1:
 
-In this activity, a teacher's pass should always be checked first because it automatically allows a student to use the fast lane.
+Rule-based systems need override conditions because some rules are more
+important than others. In this activity, a teacher's pass should always be
+checked first because it gives automatic access to the fast lane. If Aliah
+checks the time and number of items first, the program might reject a student
+who should actually be approved. Checking the override condition first helps
+the program follow the correct rules and avoids incorrect results.
 
-Even if a student has more than three items or has plenty of time left, the teacher's pass should still allow them to use the fast lane.
+Activity Question 2:
 
-If Aliah forgets to place the override condition before the time and item checks, the program could reject a student who should actually be approved.
-
-This would give incorrect results and make the system unfair.
-
-Placing the override condition first helps the program follow the rules in the correct order and avoids unnecessary mistakes.
-
-It also makes the program easier to understand and update if more rules are added in the future.
+The overdue books check should come first because students with overdue books
+are not allowed to borrow no matter what their account status is. If Aliah
+checks the student's status first, the program might approve an active student
+even if they still have overdue books. Checking the overdue condition first
+makes sure the library rules are followed correctly and prevents incorrect
+borrowing approvals.
